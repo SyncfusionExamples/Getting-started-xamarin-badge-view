@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:badge="clr-namespace:Syncfusion.XForms.BadgeView;assembly=Syncfusion.SfBadgeView.XForms"
+             mc:Ignorable="d"
+             x:Class="BadgeView_Sample.MainPage">
+
+    <badge:SfBadgeView HorizontalOptions="Center" VerticalOptions="Center" BadgeText="20">
+        <badge:SfBadgeView.Content>
+            <Button Text="Primary" WidthRequest="120"  HeightRequest="60"/>
+        </badge:SfBadgeView.Content>
+    </badge:SfBadgeView>
+</ContentPage>
