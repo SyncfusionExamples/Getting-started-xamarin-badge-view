@@ -1,6 +1,6 @@
 # Getting started Xamarin badge view
 
-This repository contains sample for how to get started with the [Syncfusion Xamarin.Forms Badge View](https://help.syncfusion.com/xamarin/badge-view/getting-started) control. Badges are used to notify users of new or unread messages, notifications, or the status of something.
+This repository contains sample to get started with the [Syncfusion Xamarin.Forms Badge View](https://help.syncfusion.com/xamarin/badge-view/getting-started) control. Badges are used to notify users of new or unread messages, notifications, or the status of something.
 
 ## Syncfusion controls:
 
